@@ -1,0 +1,18 @@
+/*=Local Fonts*/
+@font-face {
+    font-family: japanese;
+    src: url("../font/HelveticaNowDisplay-Thin.ttf");
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: japanese;
+}
+
+#hugo{
+    position: fixed;
+    bottom: 0px;
+}
